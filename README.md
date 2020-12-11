@@ -1,4 +1,5 @@
 # AI_HW1
+ITCS451_Artificial Intelligence  
 8 puzzle game
 
 ## Description:
